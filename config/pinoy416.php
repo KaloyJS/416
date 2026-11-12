@@ -1,5 +1,6 @@
 <?php
 
+
 return [
     // How dates are shown. The database always stores UTC.
     'timezone' => 'America/Toronto',
